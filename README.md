@@ -1,2 +1,2 @@
-# OitoEss-ncias
-Oito Essências é um teste inspirado e baseado em 8values.github.io. Te coloca entre dualismos.
+# 8values.github.io
+The 8values Political Quiz measures individuals' political values, including Equality, Might, Liberty, Tradition, Wealth, Peace, Authority, and Progress.
